@@ -8,7 +8,7 @@
 
 <h3>🛰  AI researcher (with Aerospace)</h3>
 
-_Now I'm interested in Reinforcement Learning_
+_Now I'm interested in_ Reinforcement Learning, Stochastic Network Optimization
 
 - **Konkuk Univ** <sub><sup>Computer Science Engineering (2021.03 ~ )</sup></sub>
 - ?
