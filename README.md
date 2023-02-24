@@ -1,5 +1,10 @@
 <h2> 손본 Webb </h2>
 
+<br>
+
+<h4 align="center"> "우주의 아름다움도 다양한 지식을 접하며 스스로의 생각이 짜여나갈 때 불현듯 나를 덮쳐오리라." </h4>
+
+<br>
 
 <h3>🛰  AI researcher (with Aerospace)</h3>
 
@@ -12,20 +17,13 @@ _Now I'm interested in_ Stochastic Network Optimization, Reinforcement Learning
 
 <div>
   <h3>⚙️ Tech Skill</h3>
-<img src="https://img.shields.io/badge/Python-FFCC33?style=for-the-badge&logo=Python"> <sup>with</sup> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
  <img src="https://img.shields.io/badge/CV-YOLO-green?style=flat-square&logo">
   <img src="https://img.shields.io/badge/RL-DQN-blue?style=flat-square&logo">
   <img src="https://img.shields.io/badge/RL-PPO-blue?style=flat-square&logo">
 </div> 
   
-<br>
-
-<div>
- <h3>📚 Tech Blog</h3>
-  <a href="https://velog.io/@webb-c"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-</div>
 
 <br>
 
@@ -34,4 +32,3 @@ _Now I'm interested in_ Stochastic Network Optimization, Reinforcement Learning
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwst0210)](https://solved.ac/jwst0210)
 </div>
-  
