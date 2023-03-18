@@ -8,7 +8,7 @@
 
 <h3>🛰  AI researcher (with Aerospace)</h3>
 
-_Now I'm interested in_ Stochastic Network Optimization, Reinforcement Learning
+_Now I'm interested in_ Network, Optimization Theory, AI(Explainable, Formulation), Reinforcement Learning
 
 - Busan IL Science High School <sub><sup> (2018.03 ~ 2021.02) </sup></sub>
 - **Konkuk Univ** <sub><sup>Computer Science Engineering (2021.03 ~ )</sup></sub>
@@ -17,11 +17,11 @@ _Now I'm interested in_ Stochastic Network Optimization, Reinforcement Learning
 
 <div>
   <h3>⚙️ Tech Skill</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
- <img src="https://img.shields.io/badge/CV-YOLO-green?style=flat-square&logo">
-  <img src="https://img.shields.io/badge/RL-DQN-blue?style=flat-square&logo">
-  <img src="https://img.shields.io/badge/RL-PPO-blue?style=flat-square&logo">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-YOLO-green?style=flat-square&logo">
+    <img src="https://img.shields.io/badge/RL-DQN-blue?style=flat-square&logo">
+    <img src="https://img.shields.io/badge/RL-PPO-blue?style=flat-square&logo">
 </div> 
   
 
