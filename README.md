@@ -31,6 +31,5 @@ _Now I'm interested in_ Network, Optimization Theory, AI(Explainable, Formulatio
  <h3>✏️ Solved.ac</h3>
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwst0210)](https://solved.ac/jwst0210)
-[![mazandi 프로필](http://mazandi.herokuapp.com/api?handle=jwst0210)](https://solved.ac/jwst0210)
   
 </div>
