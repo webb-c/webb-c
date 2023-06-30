@@ -8,7 +8,7 @@
 
 <h3>🛰  AI researcher (with Aerospace)</h3>
 
-_Now I'm interested in_ Network, Optimization Theory, AI(Explainable, Formulation), Reinforcement Learning
+_Now I'm interested in_ Quantum Deep Learning, Optimization Theory, Reinforcement Learning
 
 - Busan IL Science High School <sub><sup> (2018.03 ~ 2021.02) </sup></sub>
 - **Konkuk Univ** <sub><sup>Computer Science Engineering (2021.03 ~ )</sup></sub>
