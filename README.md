@@ -41,9 +41,8 @@
 <h3 align="center">📊 Github Stats 📊</h3>
 
 <div align="center">
-  
-  ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webb-c&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webb-c&theme=nord_dark&utcOffset=8)
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webb-c&theme=nord_dark"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webb-c&theme=nord_dark&utcOffset=8"/>
   
 </div>
 
