@@ -1,11 +1,6 @@
 ## 손본 Webb [^1]
 
 <br>
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeGradient&section=header&text=Webb's%20GitHub&fontAlign=68&fontAlignY=33&animation=fadeIn&fontColor=FFFFFF&fontSize=60&desc=Sohn%20Vaughan&descAlignY=53&descAlign=53)
-
-</div>
 
 <h3 align="center">🛰  AI researcher (with Astronomy)</h3>  
 
