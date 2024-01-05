@@ -4,7 +4,7 @@
 
 <h3 align="center">🛰  AI researcher (with Astronomy)</h3>  
 
-<div align="center"><i>Now I'm interested in...</i> <b>Optimization Theory</b>, Quantum Deep Learning, Reinforcement Learning</div>  
+<div align="center"><i>Now I'm interested in...</i> <b>Quantum Computing</b>, Optimization Theory, Reinforcement Learning</div>  
 <br>
 <div align="center">Busan IL Science High School <sub><sup> (2018.03 ~ 2021.02) </sup></sub></div> 
 <div align="center"><b>Konkuk Univ</b><sub><sup> Computer Science Engineering (2021.03 ~ )</sup></sub></div> 
