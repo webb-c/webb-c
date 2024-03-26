@@ -19,18 +19,9 @@
     <img src="https://img.shields.io/badge/CV-YOLO-green?style=flat-square&logo">
     <img src="https://img.shields.io/badge/RL-DQN-blue?style=flat-square&logo">
     <img src="https://img.shields.io/badge/RL-PPO-blue?style=flat-square&logo">
+  <a href="https://solved.ac/profile/jwst0210"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jwst0210"/></a>
 </div> 
   
-
-<br>
-
-<div align="center">
- <h3>✏️ Solved.ac ✏️</h3>
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwst0210)](https://solved.ac/jwst0210)
-  
-</div>
-
 <br>
 
 <h3 align="center">📊 Github Stats 📊</h3>
