@@ -24,7 +24,7 @@ me.callout()
 ```
 ### Hi, there 👋
 - 🔭 I'm currently studying CSE in Konkuk University.
-- 💡 Tech Blog: https://webb-c.github.io/
+- 💡 Tech Blog: https://webb-c.tistory.com/
 - 📮 How to reach me: jwst0208@gmail.com
 - 🚀 [Resume](https://webb-c.github.io/)
 
