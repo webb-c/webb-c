@@ -1,44 +1,40 @@
-## 손본 Webb [^1]
 
-<br>
-
-<h3 align="center">🛰  AI researcher (with Astronomy)</h3>  
-
-<div align="center"><i>Now I'm interested in...</i> <b>Quantum Computing</b>, Optimization Theory, Reinforcement Learning</div>  
-<br>
-<div align="center">Busan IL Science High School <sub><sup> (2018.03 ~ 2021.02) </sup></sub></div> 
-<div align="center"><b>Konkuk Univ</b><sub><sup> Computer Science Engineering (2021.03 ~ )</sup></sub></div> 
-
-<br>
-
-<div align="center">
-  <h3>⚙️ Tech Skill ⚙️</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CV-YOLO-green?style=flat-square&logo">
-    <img src="https://img.shields.io/badge/RL-DQN-blue?style=flat-square&logo">
-    <img src="https://img.shields.io/badge/RL-PPO-blue?style=flat-square&logo">
-  <a href="https://solved.ac/profile/jwst0210"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jwst0210"/></a>
-</div> 
-  
-<br>
-
-<h3 align="center">📊 Github Stats 📊</h3>
-
-<div align="center">
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=webb-c&theme=nord_dark"/>
-  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webb-c&theme=nord_dark&utcOffset=8"/>
-  
-</div>
-
-<br>
-
-<div align="center">
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-</div>
+class Researcher:
 
-[^1]: 우주의 아름다움도 다양한 지식을 접하며 스스로의 생각이 짜여나갈 때 불현듯 나를 덮쳐오리라.
+    def __init__(self):
+        self.name = "Vaughan Sohn"
+        self.role = "Researcher"
+        self.major = "Computer Science and Engineering"
+        self.interest = {
+            research=["Quantum Computing", "Optimization Theory", "Reinforcement Learning"],
+            others=["Astronomy", "Quantum Physics"]
+        }
+
+    def callout(self):
+        print("우주의 아름다움도 다양한 지식을 접하며 스스로의 생각이 짜여나갈 때 불현듯 나를 덮쳐오리라.")
 
 
+me = Researcher()
+me.callout()
+```
+### Hi, there 👋
+- 🔭 I'm currently studying CSE in Konkuk University.
+- 💡 Tech Blog: https://webb-c.github.io/
+- 📮 How to reach me: jwst0208@gmail.com
+- 🚀 [Resume](https://webb-c.github.io/)
+
+#### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=social&logo=c)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=social&logo=c%2B%2B)&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=social&logo=PyTorch)&nbsp;&nbsp;
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social&logo=Qiskit)&nbsp;&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=social&logo=latex)&nbsp;&nbsp;
+<a href="https://solved.ac/profile/jwst0210"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jwst0210"/></a>
+
+#### Latest Updated Post:
