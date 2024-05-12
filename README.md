@@ -12,7 +12,7 @@ class Researcher:
         self.major = "Computer Science and Engineering"
         self.interest = {
             research=["Quantum Computing", "Optimization Theory", "Reinforcement Learning"],
-            others=["Astronomy", "Quantum Physics"]
+            others=["Astronomy", "Quantum Physics", "Number Theory"]
         }
 
     def callout(self):
