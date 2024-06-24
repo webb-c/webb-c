@@ -32,7 +32,7 @@ me.callout()
 - 🔭 I'm currently studying CSE in Konkuk University.
 - 💡 Tech Blog: https://webb-c.tistory.com/
 - 📮 How to reach me: webb41@kaist.ac.kr
-- 🚀 [Resume](https://github.com/webb-c/webb-c/blob/main/CV_0624.pdf)
+- 🚀 [Resume](http://academicpages.github.io/files/CV.pdf)
 
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
