@@ -23,7 +23,7 @@ me = Researcher()
 me.callout()
 ```
 ### Hi, there 👋
-- 🔭 I'm currently studying quantum computing in KAIST.
+- 🔭 I'm currently studying CSE in Konkuk University.
 - 💡 Tech Blog: https://webb-c.tistory.com/
 - 📮 How to reach me: webb41@kaist.ac.kr
 - 🚀 [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: June 2024)
