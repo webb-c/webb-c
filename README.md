@@ -26,7 +26,7 @@ me.callout()
 - 🔭 I'm currently studying quantum computing in KAIST.
 - 💡 Tech Blog: https://webb-c.tistory.com/
 - 📮 How to reach me: webb41@kaist.ac.kr
-- 🚀 [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: June 2024)
+- 🚀 [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: August 2024)
 
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
