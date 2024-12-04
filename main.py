@@ -5,28 +5,8 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 3
 
 markdown_text = """
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class Researcher:
-
-    def __init__(self):
-        self.name = "Vaughan Sohn"
-        self.role = "Researcher"
-        self.major = "Computer Science and Engineering"
-        self.interest = {
-            research=["Quantum Computing", "Optimization Theory", "Reinforcement Learning"],
-            others=["Astronomy", "Quantum Physics"]
-        }
-
-    def callout(self):
-        print("우주의 아름다움도 다양한 지식을 접하며 스스로의 생각이 짜여나갈 때 불현듯 나를 덮쳐오리라.")
-
-
-me = Researcher()
-me.callout()
+```bash
+$ Gottesman-Knill theorem
 ```
 ### Hi, there 👋
 - 🔭 I'm currently studying quantum computing in KAIST.
