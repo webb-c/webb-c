@@ -1,32 +1,15 @@
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class Researcher:
-
-    def __init__(self):
-        self.name = "Vaughan Sohn"
-        self.role = "Researcher"
-        self.major = "Computer Science and Engineering"
-        self.interest = {
-            research=["Quantum Computing", "Optimization Theory", "Reinforcement Learning"],
-            others=["Astronomy", "Quantum Physics"]
-        }
-
-    def callout(self):
-        print("우주의 아름다움도 다양한 지식을 접하며 스스로의 생각이 짜여나갈 때 불현듯 나를 덮쳐오리라.")
-
-
-me = Researcher()
-me.callout()
+### Vaughan
+```tex
+\begin{theorem}[Gottesman-Knill theorem]
+    Quantum circuits that prepare qubits in the computational basis,
+    apply operations only from the Clifford group (i.e., H, S, CNOT, P),
+    and perform measurements of observables in the Pauli group can be
+    \textbf{perfectly simulated in polynomial time} on a probabilistic classical computer.
+\end{theorem}
 ```
-### Hi, there 👋
-- 🔭 I'm currently studying quantum computing in KAIST.
-- 💡 Tech Blog: https://webb-c.tistory.com/
-- 📮 How to reach me: webb41@kaist.ac.kr
-- 🚀 [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: August 2024)
+- I'm currently studying quantum computing in KAIST.
+- Tech Blog: https://webb-c.tistory.com/
+- [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: August 2024)
 
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
