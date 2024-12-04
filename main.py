@@ -5,14 +5,18 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 3
 
 markdown_text = """
-```bash
-$ Gottesman-Knill theorem
+### Vaughan
+```tex
+\begin{theorem}[Gottesman-Knill theorem]
+    Quantum circuits that prepare qubits in the computational basis,
+    apply operations only from the Clifford group (i.e., H, S, CNOT, P),
+    and perform measurements of observables in the Pauli group can be
+    \textbf{perfectly simulated in polynomial time} on a probabilistic classical computer.
+\end{theorem}
 ```
-### Hi, there 👋
-- 🔭 I'm currently studying quantum computing in KAIST.
-- 💡 Tech Blog: https://webb-c.tistory.com/
-- 📮 How to reach me: webb41@kaist.ac.kr
-- 🚀 [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: August 2024)
+- I'm currently studying quantum computing in KAIST.
+- Tech Blog: https://webb-c.tistory.com/
+- [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: August 2024)
 
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
