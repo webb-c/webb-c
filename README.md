@@ -9,7 +9,7 @@
 ```
 - I'm currently studying quantum computing in KAIST.
 - Tech Blog: https://webb-c.tistory.com/
-- [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: August 2024)
+- [Resume](http://webb-c.github.io/files/CV.pdf) (Last Updated: January 2025)
 
 #### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
